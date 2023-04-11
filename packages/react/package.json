@@ -1,0 +1,13 @@
+{
+  "name": "@newline-ds/react",
+  "packageManager": "yarn@3.5.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@newline-ds/foundation": "workspace:^"
+  },
+  "devDependencies": {
+    "typescript": "4.7.2"
+  }
+}

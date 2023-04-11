@@ -1,0 +1,7 @@
+{
+  "name": "@newline-ds/foundation",
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "typescript": "4.7.2"
+  }
+}
